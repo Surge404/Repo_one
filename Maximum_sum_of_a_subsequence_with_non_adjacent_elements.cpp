@@ -1,3 +1,5 @@
+//In order to further improve it's time complexity, concept of SEGMENT TREES is required.
+
 class Solution {
     int max_non_adj_ele_sum(int n, vector<int> & nums, vector<int>& dp){
         
